@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">CustomTabBar</string>
+
+    <string name="app_home_name">首页</string>
+
+    <string name="app_search_name">搜索</string>
+
+    <string name="app_cart_name">购物车</string>
+
+    <string name="app_share_order">晒单</string>
+
+    <string name="app_center_name">我</string>
+
 </resources>
