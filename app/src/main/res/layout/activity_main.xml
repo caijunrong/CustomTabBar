@@ -13,6 +13,15 @@
         android:layout_weight="1">
     </FrameLayout>
 
+    <com.caijunrong.customtabbar.view.viewpager.NoScrollViewPager
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/viewpager_main_v2"
+        >
+
+    </com.caijunrong.customtabbar.view.viewpager.NoScrollViewPager>
+
     <include layout="@layout/layout_bottom"/>
 
 </LinearLayout>
